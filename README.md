@@ -15,7 +15,7 @@ This is a PDF Editor that allows you to add images and drawings to your pdf dire
 ## Clone Project in MAC or Windows
 Copy the Below Line of PDF Editor Clone Project 
 
-git clone https://github.com/Nafeel483/PDF_Edit_See_React.git
+        git clone https://github.com/Nafeel483/PDF_Edit_See_React.git
 
 ## How to Run
 
