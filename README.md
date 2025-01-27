@@ -23,7 +23,7 @@ Copy the Below Line of PDF Editor Clone Project
 * yarn start
 
 
-        OR
+OR
 
 
 * npm install
