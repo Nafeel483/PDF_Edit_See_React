@@ -20,9 +20,13 @@ git clone https://github.com/Nafeel483/PDF_Edit_See_React.git
 ## How to Run
 
 * yarn install
-* or
+
+    OR
+
 * npm install
 
 * yarn start
-* or
+
+    OR
+
 * npm start
